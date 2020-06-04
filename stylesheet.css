@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: "Jost";
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 200;
 }
 
@@ -86,7 +86,7 @@ body {
   text-transform: uppercase;
   font-family: "Jost";
   text-shadow: 0 0 5px rgba(0, 0, 0, 0.65), 0 0 14px rgba(0, 0, 0, 0.35);
-  font-size: 2em;
+  font-size: calc(15px + 1vh);
 }
 
 .panel p:nth-child(2) {
