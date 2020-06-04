@@ -40,19 +40,19 @@ body {
 }
 
 .panel1 {
-  background-image: url("./flamenco.jpg");
+  background-image: url("./img/flamenco.jpg");
 }
 .panel2 {
-  background-image: url("./tapas.jpg");
+  background-image: url("./img/flamenco.jpg");
 }
 .panel3 {
-  background-image: url("./elPrado.jpeg");
+  background-image: url("./img/elPrado.jpeg");
 }
 .panel4 {
-  background-image: url("./playaMacarella.jpg");
+  background-image: url("./img/playaMacarella.jpg");
 }
 .panel5 {
-  background-image: url("./nightlife.jpg");
+  background-image: url("./img/nightlife.jpg");
 }
 
 /* Flex Children */
